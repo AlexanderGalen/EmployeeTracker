@@ -11,7 +11,8 @@ VALUES
     ("Systems Administrator", 150000, 1),
     ("Assistant Systems Administrator", 60000, 1),
     ("Helpdesk Admin", 50000, 1),
-    ("Marketing Manager", 80000, 2),
+    ("Marketing Manager", 100000, 2),
+    ("Marketing Lead", 80000, 2)
     ("Marketing Intern", 0, 2),
     ("HR Manager", 12000, 3),
     ("Accounting", 90000, 3);
@@ -26,6 +27,7 @@ VALUES
     ("Adelina", "Paine", 2, 1),
     ("Rowan", "Mccann", 3, 1),
     ("Hilda", "Tucker", 3, 1),
-    ("Faizan", "Pacheco", 5, 2),
-    ("Jamelia", "Mcleod", 5, 2),
+    ("Ela", "Webster", 5, 2),
+    ("Faizan", "Pacheco", 6, 2),
+    ("Jamelia", "Mcleod", 6, 2),
     ("Patricia", "Wallace", 7, 3);
