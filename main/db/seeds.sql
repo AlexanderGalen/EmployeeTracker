@@ -12,7 +12,7 @@ VALUES
     ("Assistant Systems Administrator", 60000, 1),
     ("Helpdesk Admin", 50000, 1),
     ("Marketing Manager", 100000, 2),
-    ("Marketing Lead", 80000, 2)
+    ("Marketing Lead", 80000, 2),
     ("Marketing Intern", 0, 2),
     ("HR Manager", 12000, 3),
     ("Accounting", 90000, 3);
