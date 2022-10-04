@@ -3,5 +3,24 @@
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
-  }
+  },
+  "name": "employeetracker",
+  "description": "cli to view and interact with an employee database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./main/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderGalen/EmployeeTracker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderGalen/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/AlexanderGalen/EmployeeTracker#readme"
 }
